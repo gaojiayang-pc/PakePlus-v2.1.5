@@ -1,0 +1,8 @@
+
+{
+  "name": "Ultimate Theme World V36 Pro",
+  "description": "A high-performance, customizable dashboard with 50+ aesthetic themes, integrated apps, and smooth gesture-based navigation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
